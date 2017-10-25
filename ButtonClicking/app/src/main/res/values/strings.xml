@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ButtonClicking</string>
+    <string name="textString">TextView</string>
+    <string name="buttonTextString">Button</string>
+</resources>

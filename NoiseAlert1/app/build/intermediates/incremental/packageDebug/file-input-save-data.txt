@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Apr 12 20:58:33 BST 2017
+2.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_59f0dd2ecc3b0714d3cbf4aa8a906791c0f3959f\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_038b22444ac5ca4e42bda44bacfbc70319443236
+7.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\greenbar.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\redbar.png
+5.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_59f0dd2ecc3b0714d3cbf4aa8a906791c0f3959f
+8.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main_menu.xml
+4.set=DEX
+6.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\NoiseAlert1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_038b22444ac5ca4e42bda44bacfbc70319443236\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

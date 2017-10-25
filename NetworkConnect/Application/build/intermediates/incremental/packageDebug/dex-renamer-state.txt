@@ -1,0 +1,7 @@
+#Mon Jul 03 23:18:15 BST 2017
+base.0=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\AndroidStudioProjects\\PracticeApps\\NetworkConnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ef3ba80184e5953c076152bf02589d94b1d43a32
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\AndroidStudioProjects\\PracticeApps\\NetworkConnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d1baf22ce96217f8495bb3c8122b75fa294f54\\classes.dex
+base.1=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\AndroidStudioProjects\\PracticeApps\\NetworkConnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d1baf22ce96217f8495bb3c8122b75fa294f54
+file.0=C\:\\Users\\pmeno\\Dropbox\\AndroidProjects\\AndroidStudioProjects\\PracticeApps\\NetworkConnect\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ef3ba80184e5953c076152bf02589d94b1d43a32\\classes.dex
